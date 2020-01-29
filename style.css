@@ -1,0 +1,33 @@
+body {
+    background-image: url('https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLg0EhX3JlFhFS41Nqle38Jf_u5pH12Kutm8k4zpxpg8R2KtLxUg');
+  }
+  
+  .container {
+    text-align: center;
+    padding-top: 30px;
+  }
+  
+  hr {
+    width: 700px;
+    padding-top: 30px
+  }
+  
+  h1 {
+    font-family: 'Permanent Marker';
+    color: #008080;
+    font-size: 52px;
+  }
+  
+  .quote-box {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: auto;
+    font-size: 20px;
+  }
+  
+  #author {
+    font-style: Italic;
+  }
